@@ -1,1 +1,1 @@
-# tugas-praktikum-c
+# tugas-praktikum-c-kamis
